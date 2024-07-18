@@ -3,7 +3,7 @@ It's the Arduino code used to control some of my WS2812 LED's.
 
 # Example
 <p align="center">
-  <img src="example.png" width="100%"/>
+  <img src="example.png" width="50%"/>
 </p>
 
 # Usage
