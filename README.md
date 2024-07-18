@@ -9,7 +9,7 @@ It's the Arduino code used to control some of my WS2812 LED's.
 
 The WS2812 uses roughly 20mA per color channel, with a total of 60mA for each LED. (See [Sparkfun guide](https://learn.sparkfun.com/tutorials/ws2812-breakout-hookup-guide/all).)  
 Actual current draw varies, so do some research/measurement if you want to be sure.  
-Lower current can be supplied, reuslting in lower brightness.
+Lower current can be supplied, resulting in lower brightness.
 
 # Example
 <p align="center">
